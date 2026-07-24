@@ -1,0 +1,16 @@
+export const CATEGORIES = [
+  { id: 'milk', name: 'Milk', icon: '🥛', hasLabel: false },
+  { id: 'boost', name: 'Boost', icon: '⚡', hasLabel: false },
+  { id: 'banana', name: 'Banana', icon: '🍌', hasLabel: false },
+  { id: 'credit_card', name: 'Credit Card Expense', icon: '💳', hasLabel: true },
+  { id: 'metro', name: 'Metro Tickets', icon: '🚇', hasLabel: false },
+  { id: 'travel', name: 'Travelling', icon: '✈️', hasLabel: false },
+  { id: 'grocery_online', name: 'Grocery Online Spends', icon: '🛒', hasLabel: false },
+  { id: 'online_food', name: 'Online Food Order', icon: '🍔', hasLabel: false },
+  { id: 'nps', name: 'NPS Savings', icon: '🏦', hasLabel: false },
+  { id: 'mf', name: 'MF Saving', icon: '📈', hasLabel: false },
+  { id: 'given_to_someone', name: 'Given To Someone', icon: '🤝', hasLabel: true },
+  { id: 'donate', name: 'Donate', icon: '❤️', hasLabel: false },
+  { id: 'others', name: 'Others', icon: '📦', hasLabel: true },
+  { id: 'online_orders', name: 'Online Orders Spend', icon: '🛍️', hasLabel: false },
+];
